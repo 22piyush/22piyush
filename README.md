@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, Nest.js, Node.js**
 
-- 👨‍💻 All of my projects are available at https://piyush-aglawe-portfolio.netlify.app/
+- 👨‍💻 All of my projects are available at https://piyush-aglawe.vercel.app/
 
 - 💬 Ask me about **Front end development**
 
